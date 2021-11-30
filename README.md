@@ -8,7 +8,7 @@ Through my UX design project, I hope to ease the process of obtaining accurate D
 
 ## Competitor Analysis
 To gain a better understanding of how other applications present information regarding maintaining driving records and supplying government program information , I conducted heuristic evaluations on two websites: the New York Drivers License Website and the New York Housing Services Website. I chose to conduct my evaluation on these websites because they both serve as good examples of government applications that are visited for practical reasons. Since users of a wide age range visit both of these websites, they should both be clear and intuitive to use for everyone-- a goal I was striving for in my own application as well. By using Jakob Nielsen's 10 usability heuristics to conduct this heuristic evaluation, I now have a greater understanding of how users interact with these websites and the role design plays in a well functioning website. 
-![Website of New York Drivers License](nystatedriver.png)
+
 
 [Click here to read more](https://github.com/kristinathabet/Heuristic-Evaluation/blob/main/README.md)
 
