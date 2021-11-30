@@ -45,7 +45,12 @@ After creating and testing my low- fidelity prototype, I created a high-fidelity
 ### Wireflow 
 
 <img width="708" alt="Screen Shot 2021-11-17 at 10 15 56 PM" src="https://user-images.githubusercontent.com/91553084/143975452-0a7017f7-b052-4ed9-9d21-5b15122aa12f.png">
+
 ### Design Variations
+
+<img width="504" alt="Screen Shot 2021-11-11 at 4 02 40 PM" src="https://user-images.githubusercontent.com/91553084/143975604-6909aa0f-0769-4336-9af3-932ea5b4a014.png">
+
+[Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
 
 ## Evaluation and Revision History
 ## Pitch Video
