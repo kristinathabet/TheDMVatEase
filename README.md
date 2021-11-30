@@ -52,6 +52,7 @@ After creating and testing my low- fidelity prototype, I created a high-fidelity
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFEB6cMg8eHllFAcfA8dpFq%2FUntitled%3Fnode-id%3D3%253A4%26starting-point-node-id%3D3%253A4" allowfullscreen></iframe>
 
+
 The interactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
 
 ### [Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
