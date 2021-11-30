@@ -55,7 +55,7 @@ The interactive prototype can be found [here](https://www.figma.com/proto/FEB6cM
 ### [Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
 
 ## Pitch Video
-
+https://youtu.be/FaLK8klypVc
 ## Conclusion
 Throughout this process, I have gained a greater understanding of the importance of good interface design. The process of creating this UX design went smoothly overall. Since I went through every stage of the design process from start to finish on my own, I had many opportunities along the way to adjust elements of my design and make the interface as intuitive to use as possible.I learned the importance of being intentional with my design choices. After testing multiple variations of color and typeface, I realized a small change such as a shadow on the button can transform the interface, making it much easier to interact with. I also gained a lot of experience working with user participants in a professional manner, making me confident in my ability to make users feel safe and comfortable during interface design testing. 
 
