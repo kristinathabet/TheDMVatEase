@@ -50,8 +50,15 @@ After creating and testing my low- fidelity prototype, I created a high-fidelity
 
 <img width="504" alt="Screen Shot 2021-11-11 at 4 02 40 PM" src="https://user-images.githubusercontent.com/91553084/143975604-6909aa0f-0769-4336-9af3-932ea5b4a014.png">
 
+The interactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
+
 [Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
 
-## Evaluation and Revision History
 ## Pitch Video
+
 ## Conclusion
+Throughout this process, I have gained a greater understanding of the importance of good interface design. The process of creating this UX design went smoothly overall. Since I went through every stage of the design process from start to finish on my own, I had many opportunities along the way to adjust elements of my design and make the interface as intuitive to use as possible.I learned the importance of being intentional with my design choices. After testing multiple variations of color and typeface, I realized a small change such as a shadow on the button can transform the interface, making it much easier to interact with. I also gained a lot of experience working with user participants in a professional manner, making me confident in my ability to make users feel safe and comfortable during interface design testing. 
+
+I was introduced to new applications during this process including Figma and Github. Finding new applications to compile my work in makes me feel more organized and structured, ultimately leading to a concise final project where all information can be found in one place. I see myself using these two websites for my personal projects in the future and I am excited to see what my knowledge and creativity can make. I am grateful for this opportunity to create my own application and have it tested by multiple different participants, giving me valuble perspectives that come from all directions. I came into this project with very little prior knowledge of UX design, and now I feel equipped with the tools to create applications of greater complexity. 
+
+
