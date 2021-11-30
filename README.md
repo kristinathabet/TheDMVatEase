@@ -52,7 +52,7 @@ After creating and testing my low- fidelity prototype, I created a high-fidelity
 
 The interactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
 
-[Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
+### [Click here to read more](https://github.com/kristinathabet/High-Fidelity-Prototype)
 
 ## Pitch Video
 
