@@ -29,6 +29,7 @@ A key factor in developing an application that is beneficial to users involves c
 <img width="924" alt="Screen Shot 2021-10-26 at 5 55 08 PM" src="https://user-images.githubusercontent.com/91553084/143971488-84a5e90e-eec2-4743-ab03-fc1a306e0ce4.png">
 
 <img width="902" alt="Screen Shot 2021-10-26 at 6 50 12 PM" src="https://user-images.githubusercontent.com/91553084/143971426-ad716f9f-c2ae-4ac0-afd8-e276957c95e8.png">
+
 ### [Click here for more information including empathy charts and journey maps](https://github.com/kristinathabet/Assignment5)
 
 ## Low- Fidelity Prototype 
