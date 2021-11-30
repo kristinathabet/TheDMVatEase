@@ -42,6 +42,11 @@ I created this low- fidelity prototype to test the functionality of the design w
 ## High- Fidelity Prototype
 After creating and testing my low- fidelity prototype, I created a high-fidelity prototype of two previously stated tasks: finding information about changing a name on a license and obtaining older driver resources. I created this prototype on Figma, using the autoflow plugin to wireflow between the frames. I then tested this high-fidelity prototype to examine the functionality of the two tasks at hand. High-fidelity prototypes also allow designers to fully visualize design elements and assess if the look and feel of the application is consistent with the tasks that can be completed. This is where all graphic design elements and UI material components are fully visulaized. I tested many different design variations including color, type font, button shape, and spacing in order to find what I felt works best. I decided on a dark and sleek design with simple typeface that is clear and easy to read. My design passes the color check for all color variations and is consistent between all frames.
 
+### Wireflow 
+
+<img width="708" alt="Screen Shot 2021-11-17 at 10 15 56 PM" src="https://user-images.githubusercontent.com/91553084/143975452-0a7017f7-b052-4ed9-9d21-5b15122aa12f.png">
+### Design Variations
+
 ## Evaluation and Revision History
 ## Pitch Video
 ## Conclusion
