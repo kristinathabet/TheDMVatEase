@@ -16,7 +16,7 @@ To gain a better understanding of how other applications present information reg
 <img width="1440" alt="NewYorkhousingservices" src="https://user-images.githubusercontent.com/91553084/143966106-63100756-ef72-4371-ae51-41528d4cd429.png">
 
 
-[Click here to read more](https://github.com/kristinathabet/Heuristic-Evaluation/blob/main/README.md)
+## [Click here to read more](https://github.com/kristinathabet/Heuristic-Evaluation/blob/main/README.md)
 
 ## User Research
 
