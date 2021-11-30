@@ -16,11 +16,11 @@ To gain a better understanding of how other applications present information reg
 <img width="1440" alt="NewYorkhousingservices" src="https://user-images.githubusercontent.com/91553084/143966106-63100756-ef72-4371-ae51-41528d4cd429.png">
 
 
-## [Click here to read more](https://github.com/kristinathabet/Heuristic-Evaluation/blob/main/README.md)
+### [Click here to read more](https://github.com/kristinathabet/Heuristic-Evaluation/blob/main/README.md)
 
 ## User Research
 
-I conducted usability testing on the New York Drivers License website in order to determine the extent to which a websites interface design impacts a users ability to complete tasks. The purpose of the usability testing aims to find out how to improve the website from the user’s perspective. I learned that usability issues do exist for this website. For example, my participant thought that there was too much inconsistency in this website and she described the website as busy. This shows that the website does not reflect the aesthetic and minimalist design. It also took my participant longer than expected to find the recipe and print it out, showing there is a lack of visibility of system status. I learned to bear these issues in mind when designing my application to provide a better user experience for the users. 
+I conducted usability testing on the New York Drivers License website in order to determine the extent to which a websites interface design impacts a users ability to complete tasks. The purpose of this usability testing is to assess the website from a user's perspective and find ways to improve user experience. Throughout my research, I found that this website has usability issues ranging from unegaging colors to unorganized tabs. My user research participant also pointed out that many buttons on the page are not responsive when the cursor is placed ober them, making the page seem slow and unresponsive. or example, my participant thought that there was too much inconsistency in this website and she described the website as busy. This shows that the website does not reflect the aesthetic and minimalist design. It also took my participant longer than expected to find the recipe and print it out, showing there is a lack of visibility of system status. I learned to bear these issues in mind when designing my application to provide a better user experience for the users. 
 ## UX Storytelling
 ## Low- Fidelity Prototype 
 ## High- Fidelity Prototype
