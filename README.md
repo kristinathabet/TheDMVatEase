@@ -26,8 +26,9 @@ I conducted usability testing on the New York Drivers License website in order t
 ## UX Storytelling
 A key factor in developing an application that is beneficial to users involves creating personas and putting ourselves in the perspective of our users. By creating personas, journey maps, and empathy charts, we can reveal aspects of interface design that are most appropriate for our target audience. UX Storytelling allows designers to focus on the users' needs and the value you want to give those users. As we refine our design, we can think back to the personas we created to ensure that our application is intuitive for our target audience. I created two different personas that represent tasks that can be completed through this application. One persona portrays a teenager in need of a license while the other portrays a young adult who needs to change information on his license.
 
-<img width="902" alt="Screen Shot 2021-10-26 at 6 50 12 PM" src="https://user-images.githubusercontent.com/91553084/143971426-ad716f9f-c2ae-4ac0-afd8-e276957c95e8.png">
+<img width="924" alt="Screen Shot 2021-10-26 at 5 55 08 PM" src="https://user-images.githubusercontent.com/91553084/143971488-84a5e90e-eec2-4743-ab03-fc1a306e0ce4.png">
 
+<img width="902" alt="Screen Shot 2021-10-26 at 6 50 12 PM" src="https://user-images.githubusercontent.com/91553084/143971426-ad716f9f-c2ae-4ac0-afd8-e276957c95e8.png">
 ## Low- Fidelity Prototype 
 ## High- Fidelity Prototype
 ## Evaluation and Revision History
