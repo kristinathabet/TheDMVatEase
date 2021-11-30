@@ -50,6 +50,8 @@ After creating and testing my low- fidelity prototype, I created a high-fidelity
 
 <img width="504" alt="Screen Shot 2021-11-11 at 4 02 40 PM" src="https://user-images.githubusercontent.com/91553084/143975604-6909aa0f-0769-4336-9af3-932ea5b4a014.png">
 
+### Interactive Prototype
+
 The interactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
 
 
